@@ -1,8 +1,6 @@
 # Final-WebProgramming-Project
 participation party
 
-TODO
+TODO: Make it pretty
 
-EVERYTHING
-
-THIS IS A BRANCH
+Yay, all primary features work
