@@ -2,7 +2,6 @@
 participation party
 
 TODO
+do the teacher client now.
 
-EVERYTHING
-
-THIS IS A BRANCH
+THIS BRANCH LETS YOU DO ONLINE STUFF YAAAAAAY
